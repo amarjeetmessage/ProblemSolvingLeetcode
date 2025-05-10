@@ -1,39 +1,33 @@
-import java.util.List;
-import java.util.ArrayList;
+import java.util.*;
 
 class Solution {
     public List<Integer> luckyNumbers(int[][] matrix) {
-        int m = matrix.length;
-        int n = matrix[0].length;
-        List<Integer> luckyNumbers = new ArrayList<>();
+        List<Integer> arr = new ArrayList<>();
+        for (int i = 0; i < matrix.length; i++) {
+            int minIdx = 0;
+            int min = Integer.MAX_VALUE;
 
-        // Step 1: Find the minimum value in each row
-        for (int i = 0; i < m; i++) {
-            int minRowValue = matrix[i][0];
-            int minRowIndex = 0;
-            // Find the minimum element in the current row
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] < minRowValue) {
-                    minRowValue = matrix[i][j];
-                    minRowIndex = j;
+            // Find min element in the row
+            for (int j = 0; j < matrix[i].length; j++) {
+                if (matrix[i][j] < min) {
+                    min = matrix[i][j];
+                    minIdx = j;
                 }
             }
 
-            // Step 2: Check if the minimum row value is the maximum in its column
-            boolean isMaxInColumn = true;
-            for (int k = 0; k < m; k++) {
-                if (matrix[k][minRowIndex] > minRowValue) {
-                    isMaxInColumn = false;
+            // Check if the min element is also the max in its column
+            boolean isLucky = true;
+            for (int k = 0; k < matrix.length; k++) {
+                if (matrix[k][minIdx] > matrix[i][minIdx]) {
+                    isLucky = false;
                     break;
                 }
             }
 
-            // If it's the minimum in its row and maximum in its column, it's a lucky number
-            if (isMaxInColumn) {
-                luckyNumbers.add(minRowValue);
+            if (isLucky) {
+                arr.add(matrix[i][minIdx]);
             }
         }
-
-        return luckyNumbers;
+        return arr;
     }
 }
