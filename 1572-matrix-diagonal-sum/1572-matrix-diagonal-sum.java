@@ -1,14 +1,20 @@
 class Solution {
     public int diagonalSum(int[][] mat) {
+        int m = mat.length;
         int sum = 0;
-        int n = mat.length;
-        for(int i=0; i<n; i++){
-            sum += mat[i][i] + mat[i][n-1-i];
+
+        for(int i = 0; i<m; i++){
+            sum += mat[i][i];
+            
+            //this condition is used very important note that how to find 
+            if(i != m-i-1){
+                sum += mat[i][m-i-1];
+            }
+
         }
-        if(n % 2 == 0){
-            return sum;
-        }else{
-            return sum - mat[n/2][n/2];
-        }
+        return sum;
     }
 }
+
+
+//you can also solve this question by brute force appraoch in O(n^2)
