@@ -3,7 +3,6 @@ class Solution {
         // Set to track characters with odd frequency
         HashSet<Character> set = new HashSet<>();
         int length = 0;
-
         for (char ch : s.toCharArray()) {
             if (set.contains(ch)) {
                 // Pair found: remove and add 2 to length
