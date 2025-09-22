@@ -1,5 +1,13 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
+
+        // //BRUTE FORCE APPROACH
+        // for(int i = 0; i<n; i++){
+        //     nums1[m+i] = nums2[i];
+        // }
+        // Arrays.sort(nums1);
+
+        //OPTIMAL APPROACH USING THREE POINTER 
         int i = m - 1;      // pointer for nums1
         int j = n - 1;      // pointer for nums2
         int k = m + n - 1;  // pointer for merged array (nums1)
