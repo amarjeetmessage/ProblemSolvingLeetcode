@@ -1,0 +1,34 @@
+import java.util.PriorityQueue;
+
+class Solution {
+    public int swimInWater(int[][] grid) {
+        int n = grid.length;
+        boolean[][] visited = new boolean[n][n];
+        
+        // Min-heap storing [elevation, row, col]
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        pq.offer(new int[]{grid[0][0], 0, 0});
+        
+        int[][] directions = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+        int maxTime = 0;
+        
+        while (!pq.isEmpty()) {
+            int[] curr = pq.poll();
+            int height = curr[0], r = curr[1], c = curr[2];
+            
+            maxTime = Math.max(maxTime, height);
+            if (r == n - 1 && c == n - 1) return maxTime;  // reached end
+            
+            if (visited[r][c]) continue;
+            visited[r][c] = true;
+            
+            for (int[] d : directions) {
+                int nr = r + d[0], nc = c + d[1];
+                if (nr >= 0 && nr < n && nc >= 0 && nc < n && !visited[nr][nc]) {
+                    pq.offer(new int[]{grid[nr][nc], nr, nc});
+                }
+            }
+        }
+        return -1; // should not reach here
+    }
+}
