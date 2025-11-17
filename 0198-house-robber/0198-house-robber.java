@@ -1,25 +1,24 @@
 class Solution {
     public int rob(int[] nums) {
         int n = nums.length;
-        int[] dp = new int[n];
-        Arrays.fill(dp , -1);
-        return profit(nums, n-1, dp);
+
+        int[] dp = new int[n+1];
+        Arrays.fill(dp, -1);
+
+        return solve(nums, n-1,dp);
     }
-    public static int profit(int nums[], int n, int[] dp) {
-        //base case
-        if(n < 0) return 0; //or if(n == 1) return nums[1];
-        if(n == 0) return nums[0];
-        //check it exist
+    public static int solve(int[] nums, int n, int[] dp) {
+        if(n == 0 ) return nums[n];
+        if(n < 0) return 0;
+
         if(dp[n] != -1) {
             return dp[n];
         }
 
-        //recurrence relation 
-        int pick = profit(nums ,n-2, dp) + nums[n];
-        int notPick = profit(nums, n-1, dp);
+        int a = solve(nums, n-1,dp);
+        int b = nums[n] + solve(nums, n-2,dp);
 
-        dp[n] = Math.max(pick , notPick);
+        dp[n] = Math.max(a,b);
         return dp[n];
-        
     }
 }
