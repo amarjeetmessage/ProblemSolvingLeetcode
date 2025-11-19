@@ -1,13 +1,27 @@
 class Solution {
     public boolean isPalindrome(String s) {
-         s = s.toLowerCase().replaceAll("[^A-Za-z0-9]", "");
-         for(int i = 0 ; i<s.length()/2; i++){
-            if(s.charAt(i) != s.charAt(s.length()-i-1)){
-            return false;
+        int i = 0;
+        int j = s.length() -1;
+
+        while(i<j) {
+            char left = s.charAt(i);
+            char right = s.charAt(j);
+            
+            if( !Character.isLetterOrDigit(left)) {
+                i = i+1;
+                continue;
             }
-         }
-         return true;
+            if( !Character.isLetterOrDigit(right)) {
+                j = j-1;
+                continue;
+            }
+
+            if(Character.toLowerCase(left) != Character.toLowerCase(right)) {
+                return false;
+            }
+            i = i+1;
+            j = j-1;
+        }
+        return true;
     }
 }
-
-// replaceAll("[^A-Za-z0-9]", "") → Regex use karke sab non-alphanumeric characters (jo A-Z, a-z, 0-9 nahi hain) remove kar deta hai.
