@@ -1,22 +1,26 @@
 class Solution {
-    public boolean validPalindrome(String s) {
-        for (int i = 0; i < s.length() / 2; i++) {
-            int j = s.length() - 1 - i;
-
-            if (s.charAt(i) != s.charAt(j)) {
-                // Mismatch mila -> try skip left OR skip right
-                return isPalindrome(s, i + 1, j) || isPalindrome(s, i, j - 1);
+    public static boolean helper(String s, int i, int j) {
+        while(i < j) {
+            if(s.charAt(i) != s.charAt(j)) {
+                return false;
             }
+            i++;
+            j--;
         }
-        // Koi mismatch hi nahi -> already palindrome
         return true;
     }
 
-    private boolean isPalindrome(String s, int left, int right) {
-        for (int i = left, j = right; i < j; i++, j--) {
-            if (s.charAt(i) != s.charAt(j)) {
-                return false;
+    public boolean validPalindrome(String s) {
+        int i = 0;
+        int j = s.length() - 1;
+
+        while(i < j) {
+            if(s.charAt(i) != s.charAt(j)) {
+                // Try deleting one char: left or right
+                return helper(s, i + 1, j) || helper(s, i, j - 1);
             }
+            i++;
+            j--;
         }
         return true;
     }
