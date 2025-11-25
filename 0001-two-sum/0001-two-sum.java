@@ -1,13 +1,32 @@
+// class Solution {
+//     public int[] twoSum(int[] nums, int target) {  
+//         for(int i = 0; i<nums.length; i++) {
+//             for(int j = i+1; j<nums.length; j++) {
+//                 if(nums[i] + nums[j] == target) {
+//                     return new int[]{i,j};
+//                 }
+//             }
+//         }
+//         return new int[]{};
+//     }
+// }// TC = O(n^2) AND SC = O(1);
+
+
+//SOLVED USING TWO POINTER TC & SC = O(n)
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
-    int n = nums.length;
-        for(int i=0; i<n; i++){
-            for(int j=i+1; j<n; j++){
-                if(nums[i] + nums[j] == target){
-                return new int[]{i,j};
-                }
+    public int[] twoSum(int[] nums, int target) {  
+        Map<Integer, Integer> map = new HashMap<>();
+
+        for(int i = 0; i< nums.length; i++) {
+            int lookingFor = target - nums[i];
+
+            if(map.containsKey(lookingFor)) {
+                return new int[] {i, map.get(lookingFor)};
             }
-        }  
-        return new int[]{};  
+            map.put(nums[i],i);
+        }
+
+        return new int[] {};
     }
 }
+
