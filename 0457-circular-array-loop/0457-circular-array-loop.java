@@ -92,6 +92,10 @@ class Solution {
         int next = curr;
         int seq = nums[curr];
 
+        if(nums[i] == 0) {
+            continue;
+        }
+
         if(seq > 0) {
             next = (next + seq) % nums.length;
         }
