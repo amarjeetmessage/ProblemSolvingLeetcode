@@ -1,63 +1,177 @@
+// class Solution {
+//     public static int calcNextIdx(int[] nums, int curr) {
+//         int next = curr;
+//         int seq = nums[curr];
+
+//         if(seq > 0) {
+//             next = (next + seq) % nums.length;
+//         }
+//         else {
+//             int mod = seq % nums.length;
+//             int forward = nums.length + mod;
+//             next = (curr + forward) % nums.length;
+//         }
+//         return next;
+//     }
+
+//     public boolean circularArrayLoop(int[] nums) {
+//         for(int i = 0; i< nums.length; i++) {
+//             //check visited index and store
+//             Set<Integer> set = new HashSet<>();
+//             set.add(i);
+
+//             //flag is positive 
+//             boolean isPos = nums[i] > 0;//return true if positive
+
+//             int curr = i;
+//             int next = curr; // <<=== FIXED: declared here
+
+//             //detect cycle
+//             while(true) {
+//                 next = calcNextIdx(nums, curr);//external function 
+
+//                 if(isPos) {
+//                     if(nums[next] < 0) {
+//                         break;
+//                     }
+//                     else {
+//                         if(set.contains(next)) {
+//                             //cycle is there 
+//                             //but check for k > 1
+//                             if(curr != next) {// if curr != next means k > 1
+//                                 return true;
+//                             }else {
+//                                 break;
+//                             }
+//                         }
+//                     }
+//                     set.add(next);
+//                 }
+//                 else {
+//                     if(nums[next] > 0) {
+//                         break;
+//                     }
+//                     else {
+//                         if(set.contains(next)) {
+//                             //cycle is there 
+//                             //but check for k > 1
+//                             if(curr != next) {// if curr != next means k > 1
+//                                 return true;
+//                             }else {
+//                                 break;
+//                             }
+//                         }
+//                     }
+//                     set.add(next);
+//                 }
+
+//                 curr = next; // keep moving
+//             }
+
+
+//         }
+//         return false;
+//     }
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 class Solution {
+    public static int calcNextIdx(int[] nums, int curr) {
+        int next = curr;
+        int seq = nums[curr];
 
-    // This function calculates the next index based on circular movement
-    public int calcNextIdx(int[] nums, int curr) {
-        int next = curr;             // store current index
-        int seq = nums[curr];        // steps to move
-
-        if (seq > 0) {  // positive movement => move forward
-            // Simple forward movement with wrap around
+        if(seq > 0) {
             next = (next + seq) % nums.length;
-        } else { // negative movement => move backward
-            // In Java: -ve % n gives -ve number => so we adjust
-            // Example: -5 % 8 = -5 → move forward by (8 - 5) = 3 steps
-            int mod = seq % nums.length;  // still negative
-            int forward = nums.length + mod; // convert negative to forward movement
-            next = (curr + forward) % nums.length; // correct circular index
         }
-
-        return next; // return next index in circular array
+        else {
+            int mod = seq % nums.length;
+            int forward = nums.length + mod;
+            next = (curr + forward) % nums.length;
+        }
+        return next;
     }
 
-
     public boolean circularArrayLoop(int[] nums) {
-        // Loop must be : length > 1 AND same direction movement
+        for(int i = 0; i< nums.length; i++) {
+            //check visited index and store
+            Set<Integer> set = new HashSet<>();
+            set.add(i);
 
-        // Try starting from each index
-        for (int i = 0; i < nums.length; i++) {
+            //flag is positive 
+            boolean isPos = nums[i] > 0;//return true if positive
 
-            boolean isForward = nums[i] > 0; // direction for this run
-            int slow = i; // slow pointer for Floyd Cycle
-            int fast = i; // fast pointer for Floyd Cycle
+            int curr = i;
+            int next = curr; // <<=== FIXED: declared here
 
-            // Using Floyd cycle detection
-            while (true) {
+            //detect cycle
+            while(true) {
+                next = calcNextIdx(nums, curr);//external function 
 
-                // Move slow pointer by 1 step
-                slow = calcNextIdx(nums, slow);
-
-                // Move fast pointer by 2 steps
-                fast = calcNextIdx(nums, fast);
-                fast = calcNextIdx(nums, fast);
-
-                // If direction changes => invalid loop → break
-                // OR we land on a visited path marked as zero
-                if ((nums[slow] > 0) != isForward || (nums[fast] > 0) != isForward) {
-                    break;
-                }
-
-                // If both meet => cycle found
-                if (slow == fast) {
-                    // But cycle of 1 element NOT ALLOWED => break
-                    if (slow == calcNextIdx(nums, slow)) {
+                if(isPos) {
+                    if(nums[next] < 0) {
                         break;
                     }
-                    return true; // valid cycle found
+                    else {
+                        if(set.contains(next)) {
+                            //cycle is there 
+                            //but check for k > 1
+                            if(curr != next) {// if curr != next means k > 1
+                                return true;
+                            }else {
+                                break;
+                            }
+                        }
+                    }
+                    set.add(next);
+                }
+                else {
+                    if(nums[next] > 0) {
+                        break;
+                    }
+                    else {
+                        if(set.contains(next)) {
+                            //cycle is there 
+                            //but check for k > 1
+                            if(curr != next) {// if curr != next means k > 1
+                                return true;
+                            }else {
+                                break;
+                            }
+                        }
+                    }
+                    set.add(next);
+                }
+
+                curr = next; // keep moving
+            }
+
+            curr = i;
+            if(isPos) {
+                while(nums[curr] > 0) {
+                    next = calcNextIdx(nums, curr);
+                    nums[curr] = 0;
+                    curr = next;
+                }
+            }else {
+                while(nums[curr] < 0) {
+                    next = calcNextIdx(nums, curr);
+                    nums[curr] = 0;
+                    curr = next;
                 }
             }
         }
-
-        // No valid loop found anywhere
         return false;
     }
 }
