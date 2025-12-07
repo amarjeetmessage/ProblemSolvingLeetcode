@@ -1,3 +1,83 @@
+
+// class Solution {
+//     public int characterReplacement(String s, int k) {
+//         // s = "AABABBA", k = 1
+
+//         int max = 0;
+
+//         // ABCB, k = 1
+//         // i   j
+//         // max = 3
+//         // maxC = 2
+//         // B:2, C:1
+//         // T: O(n^2), S: O(1)
+//         for (int i = 0; i < s.length(); i = i + 1) {
+//             int maxC = 0;
+//             // A B C D...
+//             int[] counts = new int[26];
+
+//             for (int j = i; j < s.length(); j = j + 1) {
+//                 char c = s.charAt(j);
+//                 // 0,
+//                 // 0 -> 'A', 1 -> 'B', 2 -> 'C'
+//                 counts[c - 'A'] = counts[c - 'A'] + 1;
+//                 maxC = Math.max(maxC, counts[c - 'A']);
+
+//                 // 10.. 6.. 2
+//                 int ops = (j - i + 1) - maxC;
+
+//                 if (ops > k) {
+//                     break;
+//                 }
+
+//                 max = Math.max(max, j - i + 1);
+//             }
+//         }
+
+//         return max;
+//     }
+// }
+
+
+
+
+
+
+// // class Solution {
+// //     public int characterReplacement(String s, int k) {
+// //         int max = 0;
+
+// //         for (int i = 0; i < s.length(); i = i + 1) {
+// //             int maxC = 0;
+// //             int[] counts = new int[26];
+
+// //             for (int j = i; j < s.length(); j = j + 1) {
+// //                 char c = s.charAt(j);
+// //                 counts[c - 'A'] = counts[c - 'A'] + 1;
+// //                 maxC = Math.max(maxC, counts[c - 'A']);
+
+// //                 int ops = (j - i + 1) - maxC;
+
+// //                 if (ops > k) {
+// //                     break;
+// //                 }
+
+// //                 max = Math.max(max, j - i + 1);
+// //             }
+// //         }
+
+// //         return max;
+// //     }
+// // }
+
+
+
+
+
+
+
+
+
 class Solution {
     public int characterReplacement(String s, int k) {
         int max = 0;
@@ -42,3 +122,13 @@ class Solution {
 
     }
 }
+
+
+
+
+
+
+
+
+
+
