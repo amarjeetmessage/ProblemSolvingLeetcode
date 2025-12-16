@@ -47,7 +47,7 @@ class Solution {
                         isMergeHappened = true;
 
                     }else {
-                        j = j + 1;
+                        j = j+1;
                     }
                 }
             }
