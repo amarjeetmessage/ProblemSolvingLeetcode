@@ -1,6 +1,6 @@
 class Solution {
     public static boolean isOverlap(int[] intr1, int[] intr2) {
-            return intr1[1] >= intr2[0];
+            return intr1[1] >= intr2[0] && intr2[1] >= intr1[0];
     }
     public int[][] merge(int[][] intervals) {
         
