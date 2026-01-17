@@ -1,27 +1,26 @@
 class Solution {
-    public void helper(int[][] image, int sr, int sc, int color, boolean[][] vis, int origColor) {
-        // base case (out of bound / already visited / different color)
-        if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[0].length 
-            || vis[sr][sc] || image[sr][sc] != origColor) {
-            return;
-        }
-
-        vis[sr][sc] = true;          // mark visited
-        image[sr][sc] = color;       // fill new color
-
-        // explore 4 directions
-        helper(image, sr, sc - 1, color, vis, origColor); // left
-        helper(image, sr, sc + 1, color, vis, origColor); // right
-        helper(image, sr - 1, sc, color, vis, origColor); // up
-        helper(image, sr + 1, sc, color, vis, origColor); // down
-    }
-
+    int rows, cols;
+    int[][] dirs = {{1,0},{-1,0},{0,1},{0,-1}};
+    
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        boolean[][] vis = new boolean[image.length][image[0].length];
-        int origColor = image[sr][sc];
-        if (origColor != color) { // avoid infinite recursion if already same color
-            helper(image, sr, sc, color, vis, origColor);
+        rows = image.length;
+        cols = image[0].length;
+        int oldColor = image[sr][sc];
+        if (oldColor != color) {
+            dfs(image, sr, sc, oldColor, color);
         }
         return image;
+    }
+
+    private void dfs(int[][] image, int r, int c, int oldColor, int newColor) {
+        image[r][c] = newColor;
+        for (int[] d : dirs) {
+            int nr = r + d[0];
+            int nc = c + d[1];
+            if (nr >= 0 && nr < rows && nc >= 0 && nc < cols 
+                && image[nr][nc] == oldColor) {
+                dfs(image, nr, nc, oldColor, newColor);
+            }
+        }
     }
 }
