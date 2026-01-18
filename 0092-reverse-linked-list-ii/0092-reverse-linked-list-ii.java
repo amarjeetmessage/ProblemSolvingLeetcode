@@ -1,42 +1,69 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
-
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if (head == null || left == right) {
-            return head;
-        }
-
-        // Step 1: Create a dummy node to simplify edge cases
+        // nodes reverse = right - left + 1
+        // dummy node ??? Yes
+        //
         ListNode dummy = new ListNode(0);
         dummy.next = head;
-        ListNode prev = dummy;
 
-        // Step 2: Move prev pointer to node before 'left'
-        for (int i = 1; i < left; i++) {
-            prev = prev.next;
+        // 0 -> 1 -> 2 -> 3 -> 4 -> 5
+        //    h
+        //    p
+        //         c
+        // left = 2
+        // right = 4
+        int counter = 0;
+        ListNode p = dummy,
+             c = head;
+
+        while (counter < left - 1) {
+            p = c;
+            c = c.next;
+            counter = counter + 1;
         }
 
-        // Step 3: Reverse the sublist from left to right
-        ListNode curr = prev.next;
-        ListNode nextNode = null;
+        // 0 -> 1 -> 2 -> 3 -> 4 -> 5
+        //    h
+        //    p
+        //         c
+        //         c
+        // left = 2
+        // right = 4
+        ListNode prev = null,
+             curr = c;
 
-        for (int i = 0; i < right - left; i++) {
-            nextNode = curr.next;
-            curr.next = nextNode.next;
-            nextNode.next = prev.next;
-            prev.next = nextNode;
+        counter = 0;
+        // 7 8 6 5 4 3 2 0 9 1
+        //       |
+        // T:O(n) S: O(1)
+        while (counter < (right - left + 1)) {
+            counter = counter + 1;
+
+            // save next
+            ListNode next = curr.next;
+
+            // reverse the curr node
+            curr.next = prev;
+            prev = curr;
+            curr = next;
         }
 
-        // Step 4: Return the new head
+        // 0 -> 1 -> 2 -> 3 -> 4 -> 5
+        //    h
+        //    p
+        //         c
+        //         c
+        // 0 -> 1 -> 4 -> 3 -> 2 -> 5
+        // d
+        //    p
+        //         4 -> 3 -> 2    5
+        //                        c
+        // left = 2
+        // right = 4
+        p.next = prev;
+        c.next = curr;
+
         return dummy.next;
+
     }
 }
