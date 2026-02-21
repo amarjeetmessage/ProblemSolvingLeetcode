@@ -1,45 +1,41 @@
 class Solution {
+    int rows, cols;
+
+    public void dfs(int row, int col, char[][] grid, boolean vis[][]) {
+        //out of bound
+        if(row<0 || row>= rows || col<0 || col>=cols || grid[row][col] == '0' || vis[row][col]) {
+            return;
+        }
+        vis[row][col] = true;
+        int adjList[][] = {
+            {row-1,col},
+            {row+1,col},
+            {row,col+1},
+            {row,col-1}
+        };
+        for(int neighbour[] : adjList) {
+            dfs(neighbour[0],neighbour[1],grid,vis);
+        }
+    }
+
     public int numIslands(char[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
+        rows = grid.length;
+        cols = grid[0].length;
         int islands = 0;
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
+        boolean[][] vis = new boolean[rows][cols];
 
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (grid[r][c] == '1') {
+        for(int i =0; i<rows; i++) {
+            for(int j = 0; j<cols; j++) {
+                if(grid[i][j] == '1' && !vis[i][j]) {
+                    dfs(i,j,grid,vis);
                     islands++;
-                    bfs(grid, r, c, dr, dc);
                 }
             }
         }
+
         return islands;
     }
-
-    private void bfs(char[][] grid, int row, int col, int[] dr, int[] dc) {
-        Queue<int[]> queue = new LinkedList<>();
-        queue.offer(new int[]{row, col});
-        grid[row][col] = '0';
-
-        while (!queue.isEmpty()) {
-            int[] cell = queue.poll();
-            int r = cell[0];
-            int c = cell[1];
-
-            for (int i = 0; i < 4; i++) {
-                int nr = r + dr[i];
-                int nc = c + dc[i];
-
-                if (nr >= 0 && nc >= 0 &&
-                    nr < grid.length && nc < grid[0].length &&
-                    grid[nr][nc] == '1') {
-
-                    queue.offer(new int[]{nr, nc});
-                    grid[nr][nc] = '0';
-                }
-            }
-        }
-    }
 }
+
+//just ques of like finding connected component graph 
