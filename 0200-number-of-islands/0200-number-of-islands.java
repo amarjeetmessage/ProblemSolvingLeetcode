@@ -28,9 +28,18 @@ class Solution {
 
         vis[row][col] = true;
 
-        dfs(row+1,col,vis,grid);
-        dfs(row-1,col,vis,grid);
-        dfs(row,col+1,vis,grid);
-        dfs(row,col-1,vis,grid);
+        int[][] adjList = {{row + 1, col},
+        {row -1, col},
+        {row, col + 1},
+        {row, col - 1}};
+
+        for(int[] neigh : adjList) {
+            dfs(neigh[0], neigh[1], vis, grid);
+        }
+
+        // dfs(row+1,col,vis,grid);
+        // dfs(row-1,col,vis,grid);
+        // dfs(row,col+1,vis,grid);
+        // dfs(row,col-1,vis,grid);
     }
 }
