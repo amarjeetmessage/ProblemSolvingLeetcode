@@ -1,41 +1,42 @@
 class Solution {
-    int rows, cols;
-
-    public void dfs(int row, int col, char[][] grid, boolean vis[][]) {
-        //out of bound
-        if(row<0 || row>= rows || col<0 || col>=cols || grid[row][col] == '0' || vis[row][col]) {
-            return;
-        }
-        vis[row][col] = true;
-        int adjList[][] = {
-            {row-1,col},
-            {row+1,col},
-            {row,col+1},
-            {row,col-1}
-        };
-        for(int neighbour[] : adjList) {
-            dfs(neighbour[0],neighbour[1],grid,vis);
-        }
-    }
 
     public int numIslands(char[][] grid) {
-        rows = grid.length;
-        cols = grid[0].length;
-        int islands = 0;
 
-        boolean[][] vis = new boolean[rows][cols];
+        int m = grid.length;
+        int n = grid[0].length;
 
-        for(int i =0; i<rows; i++) {
-            for(int j = 0; j<cols; j++) {
-                if(grid[i][j] == '1' && !vis[i][j]) {
-                    dfs(i,j,grid,vis);
-                    islands++;
+        boolean[][] vis = new boolean[m][n];
+        int count = 0;
+
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+
+                if(grid[i][j] == '1' && !vis[i][j]){
+                    count++;
+                    dfs(i, j, vis, grid);
                 }
+
             }
         }
 
-        return islands;
+        return count;
+    }
+
+    public static void dfs(int row, int col, boolean[][] vis, char[][] grid){
+
+        int m = grid.length;
+        int n = grid[0].length;
+
+        if(row < 0 || col < 0 || row >= m || col >= n 
+           || grid[row][col] == '0' || vis[row][col]){
+            return;
+        }
+
+        vis[row][col] = true;
+
+        dfs(row+1, col, vis, grid);
+        dfs(row-1, col, vis, grid);
+        dfs(row, col+1, vis, grid);
+        dfs(row, col-1, vis, grid);
     }
 }
-
-//just ques of like finding connected component graph 
