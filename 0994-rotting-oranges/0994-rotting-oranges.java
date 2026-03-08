@@ -2,6 +2,7 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int rows = grid.length;
         int cols = grid[0].length;
+
         int fresh = 0;
         Queue<int[]> q = new LinkedList<>();
 
