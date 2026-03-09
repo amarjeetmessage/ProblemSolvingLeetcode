@@ -3,6 +3,7 @@ class Solution {
         int[] dp = new int[n+1];
 
         // if(n<=2) return n;
+        dp[0] = 1;
         dp[1] = 1;
         if(n >= 2) {
             dp[2] = 2;
