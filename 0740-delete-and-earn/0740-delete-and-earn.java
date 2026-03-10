@@ -17,9 +17,9 @@ class Solution {
         int[] dp = new int[max+1];
 
         dp[0] = arr[0];
-        if(n>=2) {
+        // if(n>=2) {
             dp[1] = Math.max(arr[0], arr[1]);
-        }
+        // }
 
         for(int i = 2; i<=max; i++) {
             dp[i] = Math.max(dp[i-1], arr[i] + dp[i-2]);
