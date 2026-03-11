@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,12 +55,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0127-word-ladder/) | Hard |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0841-keys-and-rooms/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
