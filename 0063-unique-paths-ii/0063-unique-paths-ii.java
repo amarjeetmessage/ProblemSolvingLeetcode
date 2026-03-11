@@ -88,7 +88,7 @@ class Solution {
         int m = obstacleGrid.length;
         int n = obstacleGrid[0].length;
 
-        long[][] dp = new long[m + 1][n + 1];
+        int[][] dp = new int[m + 1][n + 1];
 
         if (obstacleGrid[m - 1][n - 1] == 1) {
             return 0;//b/c not possible to reach at destination
@@ -117,6 +117,6 @@ class Solution {
             }
         }
 
-        return (int) dp[0][0];
+        return dp[0][0];
     }
 }
