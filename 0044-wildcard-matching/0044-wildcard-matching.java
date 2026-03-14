@@ -1,40 +1,26 @@
 class Solution {
     public boolean isMatch(String s, String p) {
-        int n = s.length();
-        int m = p.length();
-
-        boolean dp[][] = new boolean[n+1][m+1];
-
-        // initialise
-        dp[0][0] = true;  // empty string matches empty pattern
-
-        for (int i = 1; i <= n; i++) {
-            dp[i][0] = false; // non-empty string can't match empty pattern
-        }
-
-        for (int j = 1; j <= m; j++) {
-            if (p.charAt(j-1) == '*') {
-                dp[0][j] = dp[0][j-1]; // '*' can match empty string
+        int si = 0, pi = 0, match = 0, star = -1;
+        int sn = s.length(), pn = p.length();
+        while (si < sn) {
+            if (pi < pn && (p.charAt(pi) == '?' || p.charAt(pi) == s.charAt(si))) {
+                si++;
+                pi++;
+            } else if (pi < pn && p.charAt(pi) == '*') {
+                star = pi;
+                match = si;
+                pi++;
+            } else if (star != -1) {
+                pi = star + 1;
+                match++;
+                si = match;
+            } else {
+                return false;
             }
         }
-
-        // bottom-up
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
-                if (s.charAt(i-1) == p.charAt(j-1) || p.charAt(j-1) == '?') {
-                    dp[i][j] = dp[i-1][j-1];
-                } 
-                else if (p.charAt(j-1) == '*') {
-                    dp[i][j] = dp[i-1][j] || dp[i][j-1];
-                    // dp[i-1][j] → '*' matches current char
-                    // dp[i][j-1] → '*' matches empty
-                } 
-                else {
-                    dp[i][j] = false;
-                }
-            }
+        while (pi < pn && p.charAt(pi) == '*') {
+            pi++;
         }
-
-        return dp[n][m];
+        return pi == pn;
     }
-}
+}//potd
