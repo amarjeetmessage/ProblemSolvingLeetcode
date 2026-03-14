@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
