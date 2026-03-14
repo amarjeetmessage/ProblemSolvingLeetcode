@@ -43,6 +43,7 @@ class Solution {
                 }
             }
 
+
             if (rotted) minutes++;
         }
 
