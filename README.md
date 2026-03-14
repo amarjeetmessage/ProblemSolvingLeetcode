@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0231-power-of-two/) | Easy |
 | [0292-nim-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0292-nim-game/) | Easy |
+| [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Memoization
@@ -197,4 +198,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0292-nim-game/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Rejection Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 <!---LeetCode Topics End-->
