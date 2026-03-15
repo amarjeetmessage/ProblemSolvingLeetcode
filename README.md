@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
+| [1622-fancy-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
@@ -230,4 +231,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
