@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0027-remove-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0027-remove-element/) | Easy |
 | [0063-unique-paths-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
 | [0120-triangle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0120-triangle/) | Medium |
@@ -254,4 +255,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0020-valid-parentheses/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
