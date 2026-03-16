@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1037-valid-boomerang](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0564-find-the-closest-palindrome](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1037-valid-boomerang](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1622-fancy-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1622-fancy-sequence/) | Hard |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
+| [1037-valid-boomerang](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1037-valid-boomerang/) | Easy |
 ## Rejection Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
