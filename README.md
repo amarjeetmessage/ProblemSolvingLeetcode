@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0231-power-of-two/) | Easy |
+| [0258-add-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0258-add-digits/) | Easy |
 | [0292-nim-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0292-nim-game/) | Easy |
 | [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0258-add-digits/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -274,4 +276,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
