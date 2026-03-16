@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0229-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0127-word-ladder/) | Hard |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0229-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -173,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
+| [0229-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0229-majority-element-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
