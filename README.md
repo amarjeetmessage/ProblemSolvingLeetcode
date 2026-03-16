@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0229-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -226,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -317,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
