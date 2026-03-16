@@ -1,18 +1,17 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        int rev = 0;
-        int temp = x;
-        if(x < 0){
-            return false;
+        //convert number to string
+        String str = String.valueOf(x);
+        //apply two pointer check from both side for length/2
+        int i = 0;
+        int j = str.length() -1 ;
+        while(i<j) {
+            if(str.charAt(i) != str.charAt(j)) {
+                return false;
+            }
+            i++;
+            j--;
         }
-        while (x != 0) {
-            int digit = x % 10;      // extract last digit
-            rev = rev * 10 + digit;  // build reversed number
-            x = x / 10;              // remove last digit
-        }
-        
-        if(rev == temp){
-            return true;
-        }else return false;
+        return true;
     }
 }
