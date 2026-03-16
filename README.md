@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
@@ -249,4 +250,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
