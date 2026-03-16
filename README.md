@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0292-nim-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0292-nim-game/) | Easy |
+| [0326-power-of-three](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0326-power-of-three/) | Easy |
 | [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0326-power-of-three/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
