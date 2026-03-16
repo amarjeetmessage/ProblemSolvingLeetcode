@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
+| [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -307,4 +310,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 <!---LeetCode Topics End-->
