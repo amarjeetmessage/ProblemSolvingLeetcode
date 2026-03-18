@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0413-arithmetic-slices](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0413-arithmetic-slices](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0413-arithmetic-slices](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
