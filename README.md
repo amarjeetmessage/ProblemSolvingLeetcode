@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
+| [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
