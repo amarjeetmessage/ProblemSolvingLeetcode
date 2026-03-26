@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
