@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0258-add-digits/) | Easy |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0069-sqrtx/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
