@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1037-valid-boomerang](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -364,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0344-reverse-string/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
