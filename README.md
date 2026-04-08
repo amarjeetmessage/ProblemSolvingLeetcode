@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0344-reverse-string/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
+| [0551-student-attendance-record-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0564-find-the-closest-palindrome](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0564-find-the-closest-palindrome/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
