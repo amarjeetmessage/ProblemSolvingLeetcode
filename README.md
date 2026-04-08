@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1037-valid-boomerang](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1037-valid-boomerang/) | Easy |
+| [1043-partition-array-for-maximum-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
