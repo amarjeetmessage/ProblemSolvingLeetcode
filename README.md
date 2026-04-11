@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0069-sqrtx/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0704-binary-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
