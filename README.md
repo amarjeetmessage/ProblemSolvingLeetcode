@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0657-robot-return-to-origin](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
