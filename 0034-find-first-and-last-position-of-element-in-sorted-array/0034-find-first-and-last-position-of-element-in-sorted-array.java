@@ -1,34 +1,51 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int first = findBound(nums, target, true);
-        int last = findBound(nums, target, false);
-        return new int[]{first, last};
-    }
+        int n = nums.length;
+        int i = findFirstOccurrence(nums, target);
+        if(i == -1){
+            return new int[] {-1,-1};
+        }
+        int j = findLastOccurence(nums, target);
 
-    private int findBound(int[] nums, int target, boolean isFirst) {
+        return new int[] {i,j};
+
+    }
+    public static int findFirstOccurrence(int[] nums, int target){
         int left = 0;
         int right = nums.length - 1;
-        int result = -1;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
+        int ans = -1;
+        while(left <= right) {
+            int mid = (left + right) / 2;
 
-            if (nums[mid] == target) {
-                result = mid;
-                if (isFirst) {
-                    // look on the left side
-                    right = mid - 1;
-                } else {
-                    // look on the right side
-                    left = mid + 1;
-                }
-            } else if (nums[mid] < target) {
+            if(nums[mid] == target) {
+                ans = mid;
+                right = mid-1;
+            }else if(nums[mid] < target){
+                left = mid+1;
+            }else{
+                right = mid -1;
+            }
+        }
+        return ans;
+    }
+    public static int findLastOccurence(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length -1;
+
+        int ans = -1;
+        while(left <= right) {
+            int mid = (left + right) / 2;
+
+            if(nums[mid] == target){
+                ans = mid;
+                left = mid+1;
+            }else if(nums[mid] < target) {
                 left = mid + 1;
-            } else {
+            }else{
                 right = mid - 1;
             }
         }
-
-        return result;
+        return ans;
     }
 }
