@@ -36,12 +36,12 @@ public class Solution extends VersionControl {
             int mid = i+(j-i)/2;//In this question make sure to use this otherwise (i+j)/2 will overflow due to large number
 
             if(isBadVersion(mid) == true){
-                ans = mid;
+                j = mid;
             }
             else{
                 i = mid+1;
             }
         }
-        return I;
+        return i;
     }
 }
