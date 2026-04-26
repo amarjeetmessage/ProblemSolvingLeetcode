@@ -7,7 +7,7 @@ class Solution {
             arr.add(stones[i]);
         }
 
-        while (arr.size() > 1) {
+        while (arr.size() > 2) {
             Collections.sort(arr);
             int a = arr.remove(arr.size() - 1);
             int b = arr.remove(arr.size() - 1);
