@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -465,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1046-last-stone-weight](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
