@@ -2,7 +2,7 @@ class Solution {
     public int lastStoneWeight(int[] stones) {
         int n = stones.length;
         //arraylist to modify 
-        ArrayList<Integer> arr = new ArrayList<>();
+        List<Integer> arr = new ArrayList<>();
         for(int i = 0; i<n; i++){
             arr.add(stones[i]);
         }
@@ -21,3 +21,41 @@ class Solution {
         }else return 0;
     }
 }
+
+
+
+
+// class Solution {
+//     public int lastStoneWeight(int[] stones) {
+//         ArrayList<Integer> arr = new ArrayList<>();
+
+//         for (int stone : stones) {
+//             arr.add(stone);
+//         }
+
+//         while (arr.size() > 1) {
+//             Collections.sort(arr);
+
+//             int a = arr.remove(arr.size() - 1); // largest
+//             int b = arr.remove(arr.size() - 1); // second largest
+
+//             if (a != b) {
+//                 arr.add(a - b);
+//             }
+//         }
+
+//         return arr.isEmpty() ? 0 : arr.get(0);
+//     }
+// }
+
+
+
+
+
+// //USING HEAPS PATTERN 
+
+// class Solution {
+//     public int lastStoneWeight(int[] stones) {
+        
+//     }
+// }
