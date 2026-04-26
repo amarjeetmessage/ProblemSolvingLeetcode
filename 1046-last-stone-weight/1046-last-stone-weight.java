@@ -27,7 +27,7 @@ class Solution {
 
 // class Solution {
 //     public int lastStoneWeight(int[] stones) {
-//         ArrayList<Integer> arr = new ArrayList<>();
+//         List<Integer> arr = new ArrayList<>();
 
 //         for (int stone : stones) {
 //             arr.add(stone);
