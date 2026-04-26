@@ -63,11 +63,11 @@ class Solution {
         }
 
         while (pq.size() > 1) {
-            int a = pq.poll();
+            int a = pq.remove();
             int b = pq.poll();
 
             if(a > b){
-                pq.offer(a - b);
+                pq.add(a - b);
             }
         }
         if(pq.size() == 1){
