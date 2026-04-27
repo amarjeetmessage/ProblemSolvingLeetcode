@@ -44,22 +44,24 @@
 
 
 
-class Solution {
-    public int mySqrt(int x) {
-        int ans = 0;
-        for(int i = 0; i<=x; i++){
-            long val = (long) i*i;
 
-            if(val > x){
-                break;
-            }
 
-            ans = i;
-        }
+// class Solution {
+//     public int mySqrt(int x) {
+//         int ans = 0;
+//         for(int i = 0; i<=x; i++){
+//             long val = (long) i*i;
 
-        return ans;
-    }
-}
+//             if(val > x){
+//                 break;
+//             }
+
+//             ans = i;
+//         }
+
+//         return ans;
+//     }
+// }
 
 
 
@@ -87,3 +89,34 @@ class Solution {
 //         return ans;
 //     }
 // }
+
+
+
+// USING TYPE 2 BINARY SEARCH
+class Solution {
+    public int mySqrt(int x) {
+        if (x == 0 || x == 1) return x;
+
+        int left = 1, right = x;
+        int ans = 0;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            long square = (long) mid * mid; // avoid overflow
+
+            if (square == x) {
+                return mid;
+            } 
+            else if (square < x) {
+                ans = mid;        // store possible answer
+                left = mid + 1;   // go right
+            } 
+            else {
+                right = mid - 1;  // go left
+            }
+        }
+
+        return ans;
+    }
+}
