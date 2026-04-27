@@ -1,7 +1,20 @@
+// class Solution {
+//     public int mySqrt(int x) {
+//         return (int)Math.sqrt(x);
+
+//     }
+// }
+
 class Solution {
     public int mySqrt(int x) {
-        return (int)Math.sqrt(x);
-
+        for(int i = 0; i<x/2; i++){
+            if(i*i == x){
+                return i;
+            }else if(i*i > x){
+                return i-1;
+            }
+        }
+        return -1;
     }
 }
 // class Solution {
