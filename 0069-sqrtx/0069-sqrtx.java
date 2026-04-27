@@ -24,23 +24,42 @@
 
 
 
+
+
+// class Solution {
+//     public int mySqrt(int x) {
+//         // if(x == 2147483647) return 46340;
+//         for(long i = 0; i< (x/2) + 2; i++){
+//             if(i*i == x){
+//                 return (int)i;
+//             }
+//             else if(i*i > x){
+//                 return (int)(i-1);
+//             }
+//         }
+//         return -1;
+//     }
+// }
+
+
+
+
 class Solution {
     public int mySqrt(int x) {
-        // if(x == 2147483647) return 46340;
-        for(long i = 0; i< (x/2) + 2; i++){
-            if(i*i == x){
-                return (int)i;
+        int ans = 0;
+        for(int i = 0; i<=x; i++){
+            long val = (long) i*i;
+
+            if(val > x){
+                break;
             }
-            else if(i*i > x){
-                return (int)(i-1);
-            }
+
+            ans = i;
         }
-        return -1;
+
+        return ans;
     }
 }
-
-
-
 
 
 
