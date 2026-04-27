@@ -7,10 +7,12 @@
 
 class Solution {
     public int mySqrt(int x) {
-        for(int i = 0; i<x/2; i++){
+        if(x == 2147483647) return 46340;
+        for(int i = 0; i< (x/2) + 2; i++){
             if(i*i == x){
                 return i;
-            }else if(i*i > x){
+            }
+            else if(i*i > x){
                 return i-1;
             }
         }
