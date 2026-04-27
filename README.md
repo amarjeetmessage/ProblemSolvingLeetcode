@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0036-valid-sudoku/) | Medium |
@@ -338,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0069-sqrtx/) | Easy |
