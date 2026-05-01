@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0377-combination-sum-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0377-combination-sum-iv/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0396-rotate-function](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0396-rotate-function](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0342-power-of-four/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0396-rotate-function](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
