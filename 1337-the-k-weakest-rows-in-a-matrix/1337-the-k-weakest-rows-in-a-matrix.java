@@ -44,8 +44,6 @@
 
 
 //USING BINARY SEARCH APPROACH 
-import java.util.*;
-
 class Solution {
 
     // 0 1 2 3 4
