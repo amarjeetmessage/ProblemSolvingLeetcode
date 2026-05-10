@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2615-sum-of-distances/) | Medium |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
