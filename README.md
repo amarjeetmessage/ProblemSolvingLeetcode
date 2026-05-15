@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0120-triangle/) | Medium |
 | [0136-single-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0136-single-number/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0069-sqrtx/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0278-first-bad-version/) | Easy |
