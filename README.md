@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1345-jump-game-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1306-jump-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1345-jump-game-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
+| [1345-jump-game-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2784-check-if-array-is-good/) | Easy |
