@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2615-sum-of-distances](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -405,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+| [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
