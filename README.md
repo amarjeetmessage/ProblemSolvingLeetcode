@@ -451,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0061-rotate-list/) | Medium |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2074-reverse-nodes-in-even-length-groups/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -523,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -541,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
