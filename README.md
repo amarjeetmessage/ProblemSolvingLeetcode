@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0189-rotate-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0263-ugly-number/) | Easy |
@@ -566,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0189-rotate-array/) | Medium |
 | [0344-reverse-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
