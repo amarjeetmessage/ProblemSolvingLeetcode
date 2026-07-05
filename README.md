@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Two Pointers
