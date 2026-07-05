@@ -1,15 +1,41 @@
+// class Solution {
+//     public int maxDepth(String s) {
+//         int n = s.length();
+
+//         int count = 0;
+//         int max = 0;
+//         for(int i = 0; i<n; i++){
+//             if(s.charAt(i) == '('){
+//                 count++;
+//                 max = Math.max(max, count);
+//             }
+//             else if(s.charAt(i) == ')'){
+//                 count--;
+//             }
+//         }
+//         return count;
+//     }
+// }
+
+
+
+
 class Solution {
     public int maxDepth(String s) {
-        int depth = 0; 
-        int maxDepth = 0;
-        for(char ch : s.toCharArray()){
-            if(ch == '('){
-                depth++;
-                maxDepth = Math.max(maxDepth, depth);
+        int n = s.length();
+
+        int count = 0;
+        int max = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (s.charAt(i) == '(') {
+                count++;
+                max = Math.max(max, count);
+            } else if (s.charAt(i) == ')') {
+                count--;
             }
-            else if(ch == ')') depth--;
-            else continue;
         }
-        return maxDepth;
+
+        return max;
     }
 }
