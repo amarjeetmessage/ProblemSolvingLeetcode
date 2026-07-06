@@ -15,16 +15,34 @@ class Solution {
         // return max;
 
 
+
+
+        // int n = prices.length;
+
+        // int minPrice = prices[0];
+        // int maxProfit = 0;
+
+        // for(int i = 1; i<n; i++){
+        //     minPrice = Math.min(minPrice, prices[i]);
+
+        //     maxProfit = Math.max(maxProfit , prices[i] - minPrice);
+        // }
+        // return maxProfit;
+
+
+
+
+
         int n = prices.length;
 
-        int minPrice = prices[0];
-        int maxProfit = 0;
+        int max = 0;
+        int min = prices[0];
 
         for(int i = 1; i<n; i++){
-            minPrice = Math.min(minPrice, prices[i]);
+            min = Math.min(min, prices[i]);
 
-            maxProfit = Math.max(maxProfit , prices[i] - minPrice);
+            max = Math.max(max, prices[i] - min);
         }
-        return maxProfit;
+        return max;
     }
 }
