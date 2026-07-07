@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0788-rotated-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0788-rotated-digits/) | Medium |
+| [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0191-number-of-1-bits/) | Easy |
+| [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -666,4 +669,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3620-network-recovery-pathways/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
