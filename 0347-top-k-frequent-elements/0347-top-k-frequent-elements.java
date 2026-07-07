@@ -30,7 +30,10 @@ class Solution {
         int[] ans = new int[k];
 
         // Remove elements from heap
-        for (int i = k - 1; i >= 0; i--) {
+        // for (int i = k - 1; i >= 0; i--) {
+        //     ans[i] = pq.poll().getKey();
+        // }
+        for(int i = 0; i<k; i++){
             ans[i] = pq.poll().getKey();
         }
 
