@@ -239,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0202-happy-number/) | Easy |
 | [0229-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0268-missing-number/) | Easy |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0263-ugly-number/) | Easy |
@@ -609,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0344-reverse-string/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
