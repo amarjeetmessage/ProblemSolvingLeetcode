@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0498-diagonal-traverse](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0498-diagonal-traverse](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0498-diagonal-traverse](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0874-walking-robot-simulation/) | Medium |
