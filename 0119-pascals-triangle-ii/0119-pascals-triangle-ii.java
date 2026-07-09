@@ -1,15 +1,18 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> row = new ArrayList<>();
-        long value = 1;  // Use long to prevent overflow during calculation
+        row.add(1);
 
-        for (int k = 0; k <= rowIndex; k++) {
-            row.add((int) value);
-            value = value * (rowIndex - k) / (k + 1); // Compute next value using formula
+        for (int i = 0; i < rowIndex; i++) {
+            List<Integer> newRow = new ArrayList<>();
+            newRow.add(1);
+            for (int j = 1; j < row.size(); j++) {
+                newRow.add(row.get(j - 1) + row.get(j));
+            }
+            newRow.add(1);
+            row = newRow;
         }
 
-        return row;
+        return row;        
     }
 }
