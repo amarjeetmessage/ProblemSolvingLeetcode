@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0220-contains-duplicate-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0229-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
