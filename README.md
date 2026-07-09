@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -342,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0097-interleaving-string/) | Medium |
 | [0118-pascals-triangle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0118-pascals-triangle/) | Easy |
+| [0119-pascals-triangle-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0120-triangle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0152-maximum-product-subarray/) | Medium |
