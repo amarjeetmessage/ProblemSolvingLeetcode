@@ -1,25 +1,22 @@
-import java.util.*;
-
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> result = new ArrayList<>();
+        List<List<Integer>> res = new ArrayList<>();
+        res.add(List.of(1));
 
-        for (int i = 0; i < numRows; i++) {
+        for (int i = 0; i < numRows - 1; i++) {
+            List<Integer> dummyRow = new ArrayList<>();
+            dummyRow.add(0);
+            dummyRow.addAll(res.get(res.size() - 1));
+            dummyRow.add(0);
             List<Integer> row = new ArrayList<>();
 
-            for (int j = 0; j <= i; j++) {
-                // First and last elements of each row are 1
-                if (j == 0 || j == i) {
-                    row.add(1);
-                } else {
-                    // Middle values = sum of two elements above it
-                    row.add(result.get(i - 1).get(j - 1) + result.get(i - 1).get(j));
-                }
+            for (int j = 0; j < dummyRow.size() - 1; j++) {
+                row.add(dummyRow.get(j) + dummyRow.get(j + 1));
             }
 
-            result.add(row);
+            res.add(row);
         }
 
-        return result;
+        return res;        
     }
 }
