@@ -1,22 +1,38 @@
+// class Solution {
+//     public int fib(int n) {
+//         int[] dp = new int[n+1];
+//         Arrays.fill(dp, -1);
+
+//         return solve(n,dp);        
+//     }
+//     public int solve(int n, int[] dp) {
+//         if(n == 0 || n == 1) return n;
+
+//         if(dp[n] != -1){
+//             return dp[n];
+//         }
+//         return dp[n] =  solve(n-1,dp) + solve(n-2,dp);
+//     }
+// }
+
+
+
 class Solution {
-    public int solve(int n) {
+    public int fib(int n) {
+        int dp[] = new int[n+1];
+        Arrays.fill(dp, -1);
 
-        if(n <= 1) return n;
-
-        int fib[] = new int[n+1];
-        //base case
-        fib[0] = 0;
-        fib[1] = 1;
-
+        dp[0] = 0;
+        if(n >= 1) {
+            dp[1] = 1;
+        }
+     
 
         for(int i = 2; i<= n; i++) {
-            fib[i] = fib[i-1] + fib[i-2];
+            dp[i] = dp[i-1] + dp[i-2];
         }
 
-        return fib[n];
-    }
-    public int fib(int n) {
-        
-       return solve(n);
+        return dp[n];
     }
 }
+
