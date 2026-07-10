@@ -1,22 +1,22 @@
 class Solution {
-    public int solve(int n, int dp[]) {
+    public int solve(int n) {
+
+        if(n <= 1) return n;
+
+        int fib[] = new int[n+1];
         //base case
-        if(n == 0 || n == 1) {
-            return n;
-        }
-        if(dp[n] != -1){
-            return dp[n];
-        }
-        // recursive call
+        fib[0] = 0;
+        fib[1] = 1;
 
-       dp[n] = solve(n-1,dp) + solve(n-2, dp);
 
-        // return result
-        return dp[n];
+        for(int i = 2; i<= n; i++) {
+            fib[i] = fib[i-1] + fib[i-2];
+        }
+
+        return fib[n];
     }
     public int fib(int n) {
-        int[] dp = new int[n+1];
-        Arrays.fill(dp, -1);
-       return solve(n, dp);
+        
+       return solve(n);
     }
 }
