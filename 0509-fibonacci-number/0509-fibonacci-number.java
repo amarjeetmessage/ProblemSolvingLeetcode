@@ -9,10 +9,10 @@ class Solution {
         }
         // recursive call
 
-       return dp[n] = solve(n-1,dp) + solve(n-2, dp);
+       dp[n] = solve(n-1,dp) + solve(n-2, dp);
 
         // return result
-        // return dp[n];
+        return dp[n];
     }
     public int fib(int n) {
         int[] dp = new int[n+1];
