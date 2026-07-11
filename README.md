@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0645-set-mismatch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0704-binary-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0704-binary-search/) | Easy |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0645-set-mismatch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0645-set-mismatch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -404,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0268-missing-number/) | Easy |
 | [0342-power-of-four](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0342-power-of-four/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0645-set-mismatch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
