@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0055-jump-game/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0001-two-sum/) | Easy |
 | [0036-valid-sudoku](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0127-word-ladder/) | Hard |
