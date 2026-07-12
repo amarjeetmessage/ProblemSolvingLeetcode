@@ -1,37 +1,53 @@
-import java.util.Stack;
-
 class MyQueue {
-    Stack<Integer> s1;
-    Stack<Integer> s2;
+    Stack<Integer> stack1;
+    Stack<Integer> stack2;
 
     public MyQueue() {
-        s1 = new Stack<>();
-        s2 = new Stack<>();
+        stack1 = new Stack<>();
+        stack2 = new Stack<>();
     }
-
-    // Push element to the back of the queue
+    
     public void push(int x) {
-        s1.push(x);
+        stack1.push(x);
     }
-
-    // Removes the element from the front of the queue and returns it
+    
     public int pop() {
-        peek(); // Move elements if needed
-        return s2.pop();
-    }
-
-    // Get the front element
-    public int peek() {
-        if (s2.isEmpty()) {
-            while (!s1.isEmpty()) {
-                s2.push(s1.pop());
-            }
+        if(!stack2.isEmpty()){
+            int val = stack2.pop();
+            return val;
         }
-        return s2.peek();
+        while(!stack1.isEmpty()) {
+            stack2.push(stack1.pop());
+        }
+        
+        int value = stack2.pop();
+        return value;
     }
-
-    // Returns whether the queue is empty
+    
+    public int peek() {
+        if(!stack2.isEmpty()){
+            int val = stack2.peek();
+            return val;
+        }
+        while(!stack1.isEmpty()) {
+            stack2.push(stack1.pop());
+        }
+        
+        int value = stack2.peek();
+        return value;
+        
+    }
+    
     public boolean empty() {
-        return s1.isEmpty() && s2.isEmpty();
+        return stack1.isEmpty() && stack2.isEmpty();
     }
 }
+
+/**
+ * Your MyQueue object will be instantiated and called as such:
+ * MyQueue obj = new MyQueue();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.peek();
+ * boolean param_4 = obj.empty();
+ */
