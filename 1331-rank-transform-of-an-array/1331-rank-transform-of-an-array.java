@@ -1,0 +1,28 @@
+class Solution {
+    public int[] arrayRankTransform(int[] arr) {
+
+        int n = arr.length;
+
+        int[] copy = arr.clone();
+        Arrays.sort(copy);
+
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int rank = 1;
+
+        // Assign ranks
+        for (int i = 0; i < n; i++) {
+            if (!map.containsKey(copy[i])) {
+                map.put(copy[i], rank);
+                rank++;
+            }
+        }
+
+        // Replace original values with ranks
+        for (int i = 0; i < n; i++) {
+            arr[i] = map.get(arr[i]);
+        }
+
+        return arr;
+    }
+}
