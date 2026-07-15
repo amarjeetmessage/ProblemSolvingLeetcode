@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
@@ -622,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -756,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
