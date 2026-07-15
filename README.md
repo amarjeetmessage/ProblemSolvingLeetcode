@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0342-power-of-four/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0278-first-bad-version/) | Easy |
+| [0367-valid-perfect-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0367-valid-perfect-square/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0704-binary-search/) | Easy |
