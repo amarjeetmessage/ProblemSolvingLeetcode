@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0788-rotated-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1037-valid-boomerang](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1037-valid-boomerang/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
