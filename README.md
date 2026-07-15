@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
@@ -619,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -652,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
@@ -752,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
