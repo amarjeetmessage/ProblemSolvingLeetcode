@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
