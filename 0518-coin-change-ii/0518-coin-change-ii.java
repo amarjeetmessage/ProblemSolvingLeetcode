@@ -51,31 +51,64 @@
 
 
 
-//tabulation
+// //tabulation
 
+// class Solution {
+//     public int change(int amount, int[] coins) {
+//         int n = coins.length;
+//         int[][] dp = new int[n+1][amount+1];
+//         for(int i = 0; i<n+1; i++){
+//             Arrays.fill(dp[i] , 0);
+//         }
+//         // first col 1 kar do first row 0 pahle se hi hai 
+//         for(int i =0; i<=n; i++){
+//             dp[i][0] = 1;
+//         }
+
+//         for(int i = 1; i<=n; i++){
+//             for(int j = 1; j<= amount; j++){
+//                 if(j-coins[i-1]>=0){
+
+//                     dp[i][j] = dp[i-1][j] + dp[i][j-coins[i-1]];
+//                 }else{
+//                     dp[i][j] = dp[i-1][j];
+//                 }
+//             }
+//         }
+//         return dp[n][amount];
+//     }
+// }
+
+
+
+
+
+
+
+// space optimization
 class Solution {
     public int change(int amount, int[] coins) {
+
         int n = coins.length;
-        int[][] dp = new int[n+1][amount+1];
-        for(int i = 0; i<n+1; i++){
-            Arrays.fill(dp[i] , 0);
-        }
-        // first col 1 kar do first row 0 pahle se hi hai 
-        for(int i =0; i<=n; i++){
-            dp[i][0] = 1;
-        }
 
-        for(int i = 1; i<=n; i++){
-            for(int j = 1; j<= amount; j++){
-                if(j-coins[i-1]>=0){
+        int[] prev = new int[amount + 1];
+        prev[0] = 1;
 
-                    dp[i][j] = dp[i-1][j] + dp[i][j-coins[i-1]];
-                }else{
-                    dp[i][j] = dp[i-1][j];
+        for (int i = 1; i <= n; i++) {
+            int[] curr = new int[amount + 1];
+            curr[0] = 1;
+
+            for (int j = 1; j <= amount; j++) {
+                if (j - coins[i - 1] >= 0) {
+                    curr[j] = prev[j] + curr[j - coins[i - 1]];
+                } else {
+                    curr[j] = prev[j];
                 }
             }
+
+            prev = curr;
         }
-        return dp[n][amount];
+
+        return prev[amount];
     }
 }
-
