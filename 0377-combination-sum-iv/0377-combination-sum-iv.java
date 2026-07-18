@@ -1,40 +1,25 @@
-public class Solution {
-    private static final int MAX_TARGET = 1010; // Maximum possible target value
-    private int[] dp = new int[MAX_TARGET]; // Array to store computed results
+class Solution {
+    public int solve(int n, int target, int[] nums, int[] dp) {
+        //base case 
+        if(target == 0) return 1;
+        if(target < 0) return 0;
 
-    private int countCombinations(int[] nums, int remainingTarget) {
-        // If the remaining target is 0, there's one valid combination.
-        if (remainingTarget == 0)
-            return 1;
-        
-        // If the remaining target becomes negative, it's not possible to reach it.
-        if (remainingTarget < 0)
-            return 0;
-        
-        // If the result for 'remainingTarget' is already computed, return it.
-        if (dp[remainingTarget] != -1)
-            return dp[remainingTarget];
-        
-        int currentCombinations = 0;
-        
-        // Iterate through the numbers in 'nums'.
-        for (int i = 0; i < nums.length; i++) {
-            int currentNum = nums[i];
-            // Recursively calculate combinations for the new target.
-            currentCombinations += countCombinations(nums, remainingTarget - currentNum);
+        if(dp[target] != -1){
+            return dp[target];
         }
-        
-        // Store and return the computed result.
-        return dp[remainingTarget] = currentCombinations;
+
+        // recursive call
+        int result = 0;
+        for(int i = 0; i<n; i++){
+            result = result + solve(n, target - nums[i], nums, dp);
+        }
+        return dp[target] = result;
     }
-
     public int combinationSum4(int[] nums, int target) {
-        // Initialize the 'dp' array with -1 to indicate uncomputed results.
-        for (int i = 0; i < MAX_TARGET; i++) {
-            dp[i] = -1;
-        }
-        
-        // Start the combination count calculation.
-        return countCombinations(nums, target);
+        int n = nums.length;
+        int dp[] = new int[target + 1];
+        Arrays.fill(dp, -1);
+
+        return solve(n, target, nums,dp);
     }
 }
