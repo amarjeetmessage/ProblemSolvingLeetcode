@@ -85,30 +85,54 @@
 
 
 
-// space optimization
+// // space optimization
+// class Solution {
+//     public int change(int amount, int[] coins) {
+
+//         int n = coins.length;
+
+//         int[] prev = new int[amount + 1];
+//         prev[0] = 1;
+
+//         for (int i = 1; i <= n; i++) {
+//             int[] curr = new int[amount + 1];
+//             curr[0] = 1;
+
+//             for (int j = 1; j <= amount; j++) {
+//                 if (j - coins[i - 1] >= 0) {
+//                     curr[j] = prev[j] + curr[j - coins[i - 1]];
+//                 } else {
+//                     curr[j] = prev[j];
+//                 }
+//             }
+
+//             prev = curr;
+//         }
+
+//         return prev[amount];
+//     }
+// }
+
+
+
+
+// single dimension dp 
 class Solution {
     public int change(int amount, int[] coins) {
 
         int n = coins.length;
 
-        int[] prev = new int[amount + 1];
-        prev[0] = 1;
+        int[] curr = new int[amount + 1];
+        curr[0] = 1;
 
         for (int i = 1; i <= n; i++) {
-            int[] curr = new int[amount + 1];
-            curr[0] = 1;
-
             for (int j = 1; j <= amount; j++) {
                 if (j - coins[i - 1] >= 0) {
-                    curr[j] = prev[j] + curr[j - coins[i - 1]];
-                } else {
-                    curr[j] = prev[j];
+                    curr[j] = curr[j] + curr[j - coins[i - 1]];
                 }
             }
-
-            prev = curr;
         }
 
-        return prev[amount];
+        return curr[amount];
     }
 }
