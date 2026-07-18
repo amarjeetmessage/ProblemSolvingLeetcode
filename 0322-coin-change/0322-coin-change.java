@@ -1,34 +1,27 @@
 class Solution {
-    public int coinChange(int[] coins, int amount) {
-        int n = coins.length;
 
-        int[][] dp = new int[n+1][amount+1];
-        for(int[] row : dp) {
-            Arrays.fill(row, -1);
-        }
+    public int solve(int n, int amount, int[] coins,int[][] dp){
+        // base case
+        if(n==0) return (int)1e9;
+        if(amount == 0) return 0;
+        if(amount < 0) return (int)1e9;
 
-        int ans = solve(coins, amount, n-1,dp);
-
-        if (ans >= 1000000000) {
-            return -1;
-        }
-        return ans;
-    }
-
-    private int solve(int[] coins, int amount, int n,int[][] dp) {
-        if (amount == 0) return 0;
-
-        if (n < 0 || amount < 0) return 1000000000; // large number
-
-        if(dp[n][amount] != -1) {
+        if(dp[n][amount] != -1){
             return dp[n][amount];
         }
 
-        int take = 1 + solve(coins, amount - coins[n], n,dp);
+        //recursive call
+        dp[n][amount] = Math.min(solve(n-1,amount,coins,dp) , 1+solve(n, amount-coins[n-1], coins,dp));
 
-        int notTake = solve(coins, amount, n - 1,dp);
-
-        dp[n][amount] = Math.min(take, notTake);
         return dp[n][amount];
+    }
+    public int coinChange(int[] coins, int amount) {
+        int n = coins.length;
+        int[][] dp = new int[n+1][amount+1];
+        for(int i = 0; i<=n; i++){
+            Arrays.fill(dp[i] , -1);
+        }
+        int ans = solve(n,amount,coins,dp);
+        return ans >= 1e9 ? -1 : ans;
     }
 }
