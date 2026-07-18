@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -705,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
