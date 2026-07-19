@@ -13,26 +13,21 @@
  *     }
  * }
  */
-import java.util.*;
-
 class Solution {
-    public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> result = new ArrayList<>();
-        preorderHelper(root, result);
-        return result;
-    }
 
-    private void preorderHelper(TreeNode root, List<Integer> result) {
-        if (root == null) {
+    public void preorder(List<Integer> list, TreeNode root){
+        if(root == null){
             return;
         }
-        // Node
-        result.add(root.val); 
-        
-        // Left
-        preorderHelper(root.left, result);
-        
-        // Right
-        preorderHelper(root.right, result);
+
+        list.add(root.val);
+        preorder(list, root.left);
+        preorder(list, root.right);
+    }
+
+    public List<Integer> preorderTraversal(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        preorder(list, root);
+        return list;
     }
 }
