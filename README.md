@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0322-coin-change/) | Medium |
@@ -811,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -825,6 +828,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
