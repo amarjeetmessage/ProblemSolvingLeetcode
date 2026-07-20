@@ -13,25 +13,20 @@
  *     }
  * }
  */
-
 class Solution {
     int diameter = 0;
+    private int longestPath(TreeNode root){
+        if(root == null) return 0;
 
+        int lm = longestPath(root.left);
+        int rm = longestPath(root.right);
+
+        diameter = Math.max(lm + rm, diameter);
+
+        return Math.max(lm,rm) + 1;        
+    }
     public int diameterOfBinaryTree(TreeNode root) {
         longestPath(root);
         return diameter;
-    }
-
-    private int longestPath(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-
-        int leftLongestPath = longestPath(root.left);
-        int rightLongestPath = longestPath(root.right);
-
-        diameter = Math.max(leftLongestPath + rightLongestPath, diameter);
-
-        return Math.max(leftLongestPath, rightLongestPath) + 1;
     }
 }
