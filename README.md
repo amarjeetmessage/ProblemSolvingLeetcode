@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0704-binary-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
@@ -401,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -539,6 +541,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0179-largest-number/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
