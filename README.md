@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -640,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
