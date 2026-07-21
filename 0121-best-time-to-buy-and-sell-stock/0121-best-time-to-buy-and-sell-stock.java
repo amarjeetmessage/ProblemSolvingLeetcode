@@ -1,48 +1,40 @@
+// using 2 for loop to check all possible combination -> O(n^2)
+
+// class Solution {
+//     public int maxProfit(int[] prices) {
+//         int n = prices.length;
+//         int max = 0;
+//         for(int i = 0; i<n; i++){
+//             for(int j = i+1; j<n; j++){
+//                 if(prices[j] > prices[i]){
+//                     max = Math.max(max, prices[j] - prices[i]);
+//                 }
+//             }
+//         }
+//         return max;
+//     }
+// }
+
+
+
+
+
+// // O(n^2)
 class Solution {
     public int maxProfit(int[] prices) {
-        // int n = prices.length;
+       int n = prices.length;
+       int prevSmallStockPrice = prices[0];
+       int maxProfit = 0;
 
-        // int diff = 0;
-        // int max = 0;
-        // for(int i = 0; i<n; i++){
-        //     for(int j = i+1; j<n;j++){
-        //         if(prices[i] < prices[j]){
-        //             diff = prices[j] - prices[i];
-        //             max = Math.max(max, diff);
-        //         }
-        //     }
-        // }
-        // return max;
-
-
-
-
-        // int n = prices.length;
-
-        // int minPrice = prices[0];
-        // int maxProfit = 0;
-
-        // for(int i = 1; i<n; i++){
-        //     minPrice = Math.min(minPrice, prices[i]);
-
-        //     maxProfit = Math.max(maxProfit , prices[i] - minPrice);
-        // }
-        // return maxProfit;
-
-
-
-
-
-        int n = prices.length;
-
-        int max = 0;
-        int min = prices[0];
-
-        for(int i = 1; i<n; i++){
-            min = Math.min(min, prices[i]);
-
-            max = Math.max(max, prices[i] - min);
+       for(int i = 1; i<n; i++){
+        if(prices[i] > prevSmallStockPrice) {
+            maxProfit = Math.max(maxProfit, prices[i] - prevSmallStockPrice);
+        }else{
+            prevSmallStockPrice = prices[i];
         }
-        return max;
+       }
+
+       return maxProfit;
+
     }
 }
