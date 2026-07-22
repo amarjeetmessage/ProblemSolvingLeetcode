@@ -43,10 +43,11 @@ class Solution {
             }
             if(level % 2 == 1){
                 Collections.reverse(list);
+                ans.add(list);
+            }else{
+                ans.add(list);
             }
             
-            ans.add(list);
-
             level++;
 
         }
