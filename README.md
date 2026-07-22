@@ -846,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 ## Binary Tree
@@ -864,6 +865,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
