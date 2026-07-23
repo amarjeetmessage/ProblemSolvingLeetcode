@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0645-set-mismatch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0645-set-mismatch/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -734,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0344-reverse-string/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -849,6 +853,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -871,6 +876,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -880,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
