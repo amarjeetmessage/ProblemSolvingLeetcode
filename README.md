@@ -263,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0520-detect-capital](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0520-detect-capital/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0413-arithmetic-slices](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0509-fibonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
