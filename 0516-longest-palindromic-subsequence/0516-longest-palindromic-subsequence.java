@@ -1,38 +1,41 @@
+// solve same as lcs by making one new String reverse of given string
 class Solution {
-    public int longestCommonSubsequence(String text1, String text2) {
-        int m = text1.length();
-        int n = text2.length();
+    public int lcs(int m, int n, String text1, String text2,int[][] dp){
+        if(m == 0 || n == 0) return 0;
 
-        int[][] dp = new int[m+1][n+1];
-    
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        if(dp[m][n] != -1){
+            return dp[m][n];
         }
 
-        return solve(text1,text2,m-1,n-1,dp);
-    }
-    public static int solve(String text1, String text2, int m, int n , int[][] dp) {
-        if(m < 0 || n < 0) return 0;
-
-        if(dp[m][n] != -1) {
-            return dp[m][n] ;
-        }
-
-        if(text1.charAt(m) != text2.charAt(n)) {
-            int a = solve(text1, text2,m-1,n,dp);
-            int b = solve(text1, text2,m,n-1,dp);
-
-            dp[m][n] =  Math.max(a,b);
-            return dp[m][n];
-        }else {
-            dp[m][n] =  1 + solve(text1 , text2, m-1, n-1,dp);
-            return dp[m][n];
+        if(text1.charAt(m-1) == text2.charAt(n-1)){
+            return dp[m][n] = 1 + lcs(m-1,n-1,text1,text2,dp);
+        }else{
+            return dp[m][n] = Math.max(lcs(m-1,n,text1,text2,dp),lcs(m,n-1,text1,text2,dp));
         }
     }
     public int longestPalindromeSubseq(String s) {
-        StringBuilder sb = new StringBuilder(s);
-        String rev = sb.reverse().toString();
-        return longestCommonSubsequence(s, rev);
-    }
+        char[] arr = s.toCharArray();
 
+        int i = 0;
+        int j = arr.length - 1;
+
+        while (i < j) {
+            char temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
+
+            i++;
+            j--;
+        }
+
+        String rev = new String(arr);
+
+        int dp[][] = new int[rev.length()+1][rev.length() + 1];
+
+        for(i = 0; i<=rev.length(); i++){
+            Arrays.fill(dp[i],-1);
+        }
+
+        return lcs(rev.length(),rev.length(),s,rev,dp);
+    }
 }
