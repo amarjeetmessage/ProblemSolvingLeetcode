@@ -70,8 +70,8 @@ class Solution {
     }
     public int longestPalindromeSubseq(String s) {
         int len = s.length();
-        int[][] dp = new int[len+1][len+1];
-        for(int i = 0; i<=len; i++){
+        int[][] dp = new int[len][len];
+        for(int i = 0; i<len; i++){
             Arrays.fill(dp[i], -1);
         }
         return solve(0,len-1,s,dp);
