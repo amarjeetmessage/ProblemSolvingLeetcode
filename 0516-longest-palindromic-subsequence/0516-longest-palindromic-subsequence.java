@@ -15,25 +15,27 @@ class Solution {
     }
     public int longestPalindromeSubseq(String s) {
         int len = s.length();
-        char[] arr = s.toCharArray();
 
-        int i = 0;
-        int j = arr.length - 1;
+        String rev = new StringBuilder(s).reverse().toString();
+        // char[] arr = s.toCharArray();
 
-        while (i < j) {
-            char temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
+        // int i = 0;
+        // int j = arr.length - 1;
 
-            i++;
-            j--;
-        }
+        // while (i < j) {
+        //     char temp = arr[i];
+        //     arr[i] = arr[j];
+        //     arr[j] = temp;
 
-        String rev = new String(arr);
+        //     i++;
+        //     j--;
+        // }
+
+        // String rev = new String(arr);
 
         int dp[][] = new int[len+1][len + 1];
 
-        for(i = 0; i<=len; i++){
+        for(int i = 0; i<=len; i++){
             Arrays.fill(dp[i],-1);
         }
 
