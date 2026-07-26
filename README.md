@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0112-path-sum/) | Easy |
 | [0127-word-ladder](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0279-perfect-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
@@ -422,6 +423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0264-ugly-number-ii/) | Medium |
+| [0279-perfect-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0322-coin-change/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0376-wiggle-subsequence/) | Medium |
@@ -524,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0263-ugly-number/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0264-ugly-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0268-missing-number/) | Easy |
+| [0279-perfect-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0279-perfect-squares/) | Medium |
 | [0292-nim-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0292-nim-game/) | Easy |
 | [0326-power-of-three](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0342-power-of-four/) | Easy |
