@@ -7,7 +7,7 @@ class Solution {
             ans = ans * nums[i];
         }
         
-        ans2 = nums[0] * nums[1] * nums[nums.length -1];
+        ans2 = nums[0] * nums[1] * nums[nums.length - 1];
         return Math.max(ans, ans2);
     }
 }
