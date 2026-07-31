@@ -1,3 +1,43 @@
+
+// class Solution {
+//     public int maxEnvelopes(int[][] envelopes) {
+
+//         Arrays.sort(envelopes, (a, b) -> {
+//             if (a[0] == b[0]) {
+//                 return a[1] - b[1];
+//             }
+//             return a[0] - b[0];
+//         });
+
+//         int n = envelopes.length;
+//         int[] lis = new int[n];
+//         Arrays.fill(lis, 1);
+
+//         int maxLen = 1;
+
+//         for (int i = 1; i < n; i++) {
+//             for (int j = 0; j < i; j++) {
+
+//                 if (envelopes[i][0] > envelopes[j][0] &&
+//                     envelopes[i][1] > envelopes[j][1]) {
+
+//                     lis[i] = Math.max(lis[i], lis[j] + 1);
+//                 }
+//             }
+
+//             maxLen = Math.max(maxLen, lis[i]);
+//         }
+
+//         return maxLen;
+//     }
+// }
+
+
+
+
+
+
+
 class Solution {
     public int maxEnvelopes(int[][] envelopes) {
 
@@ -16,8 +56,8 @@ class Solution {
 
         for (int i = 1; i < envelopes.length; i++) {
 
-            int height = envelopes[i][1];
-            int index = lowerBound(temp, height);
+            int height = envelopes    [    i           ]    [         1        ];
+            int index = lowerBound          (temp, height);
 
             if (index == temp.size()) {
                 temp.add(height);
