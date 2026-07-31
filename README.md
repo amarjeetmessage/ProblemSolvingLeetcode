@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -562,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -597,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
