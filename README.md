@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0413-arithmetic-slices](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0413-arithmetic-slices/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
+| [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -676,6 +679,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0342-power-of-four/) | Easy |
+| [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -685,6 +689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0292-nim-game/) | Easy |
+| [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
