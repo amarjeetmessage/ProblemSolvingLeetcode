@@ -34,33 +34,66 @@
 
 // use of cyclic sorting to solve in O(n) with constant space
 
+// class Solution {
+//     public int missingNumber(int[] nums) {
+//         int n = nums.length;
+//         int i = 0;
+//         //in - place nums array ko modify karke 
+//         //sahi index par pahuchate hai
+
+//         //cyclic sorting
+//         while(i < n) {
+//             int correctIndex = nums[i];// due to starts with 0
+            
+//             //exception
+//             if(correctIndex >= nums.length) {
+//                 i = i+1;
+//             }
+//             else if(nums[correctIndex] != nums[i]) {
+//                 int temp = nums[correctIndex];
+//                 nums[correctIndex] = nums[i];
+//                 nums[i] = temp;
+//             }
+
+//             else {
+//                 i = i+1;
+//             }
+//         }
+
+//         for(int k = 0; k< n; k++){
+//             if(nums[k] != k){
+//                 return k;
+//             }
+//         }
+//         return n;
+
+//     }
+// }
+
+
+
 class Solution {
     public int missingNumber(int[] nums) {
-        int n = nums.length;
         int i = 0;
-        //in - place nums array ko modify karke 
-        //sahi index par pahuchate hai
+        int n = nums.length;
 
-        //cyclic sorting
         while(i < n) {
-            int correctIndex = nums[i];// due to starts with 0
-            
-            //exception
-            if(correctIndex >= nums.length) {
-                i = i+1;
-            }
-            else if(nums[correctIndex] != nums[i]) {
-                int temp = nums[correctIndex];
-                nums[correctIndex] = nums[i];
-                nums[i] = temp;
-            }
+            int correct = nums[i];
 
-            else {
-                i = i+1;
+            if(nums[i] >= n){
+                i++;
+            }
+            else if(nums[i] != nums[correct]) {
+                //swap 
+                int temp = nums[i];
+                nums[i] = nums[correct];
+                nums[correct] = temp;
+            }else{
+                i++;
             }
         }
 
-        for(int k = 0; k< n; k++){
+        for(int k = 0; k<n; k++) {
             if(nums[k] != k){
                 return k;
             }
