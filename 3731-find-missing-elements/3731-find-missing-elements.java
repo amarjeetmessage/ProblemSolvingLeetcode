@@ -1,23 +1,27 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        // put in priority queue and find the min and max 
+        // put in priority queue and find the min and max || simply sort
         // add all element in set 
         // loop over the set and if not contains in range add to list
         // sort them
         int n = nums.length;
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        for(int i = 0; i<n; i++){
-            pq.offer(nums[i]);
-        }
+        // PriorityQueue<Integer> pq = new PriorityQueue<>();
+        // for(int i = 0; i<n; i++){
+        //     pq.offer(nums[i]);
+        // }
 
-        int min = pq.peek();
-        int max = 0;
-        for(int i = 0; i<n; i++){
-            if(!pq.isEmpty()){
-                max = pq.peek();
-                pq.poll();
-            }
-        }
+        // int min = pq.peek();
+        // int max = 0;
+
+        Arrays.sort(nums);
+        int min = nums[0];
+        int max = nums[n-1];
+        // for(int i = 0; i<n; i++){
+        //     if(!pq.isEmpty()){
+        //         max = pq.peek();
+        //         pq.poll();
+        //     }
+        // }
 
         Set<Integer> set = new HashSet<>();
         for(int i = 0; i<n; i++){
