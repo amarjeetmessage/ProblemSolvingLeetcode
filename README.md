@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1406-stone-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1840-maximum-building-height](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1840-maximum-building-height/) | Hard |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1406-stone-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1406-stone-game-iii/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
