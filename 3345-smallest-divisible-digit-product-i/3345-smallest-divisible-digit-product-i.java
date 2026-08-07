@@ -1,22 +1,26 @@
 class Solution {
-    public int smallestNumber(int n, int t) {
-        
-        int num=n;
-        int ans=0;
-        for(int i =0; i<=10; i++){
-            int x=num+i;
-            int p=1;
-            while(x>0){
-                int d=x%10;
-                p=p*d;
-                x/=10;
-            }
-            if(p % t ==0)   {
-                ans= num+i;
-                break;
-            }
+
+    public int findProduct(int n) {
+        int prod = 1;
+
+        while (n > 0) {
+            prod *= (n % 10);
+            n /= 10;
         }
 
-    return ans;
+        return prod;
+    }
+
+    public int smallestNumber(int n, int t) {
+
+        while (true) {
+            int product = findProduct(n);
+
+            if (product % t == 0) {
+                return n;
+            }
+
+            n++;
+        }
     }
 }
