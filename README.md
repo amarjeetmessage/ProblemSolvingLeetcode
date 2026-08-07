@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -540,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Math
@@ -622,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
