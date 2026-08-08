@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0169-majority-element/) | Easy |
+| [0174-dungeon-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0179-largest-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0179-largest-number/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0189-rotate-array/) | Medium |
@@ -246,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
+| [0174-dungeon-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0498-diagonal-traverse/) | Medium |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0174-dungeon-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0174-dungeon-game/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0213-house-robber-ii/) | Medium |
