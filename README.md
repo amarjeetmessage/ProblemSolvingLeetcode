@@ -323,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Hash Table
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -659,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -860,6 +863,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
