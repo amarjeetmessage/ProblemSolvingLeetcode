@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
+| [1140-stone-game-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -528,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2615-sum-of-distances](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2615-sum-of-distances/) | Medium |
@@ -610,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0877-stone-game/) | Medium |
 | [1037-valid-boomerang](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1037-valid-boomerang/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1140-stone-game-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -752,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0292-nim-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0292-nim-game/) | Easy |
 | [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1406-stone-game-iii/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -1037,10 +1042,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1140-stone-game-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1406-stone-game-iii/) | Hard |
 ## Meet in the Middle
 | Problem Name | Difficulty |
