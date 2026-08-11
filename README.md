@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -573,6 +575,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -663,6 +666,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
