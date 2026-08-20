@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3225-maximum-score-from-grid-operations](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -819,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
