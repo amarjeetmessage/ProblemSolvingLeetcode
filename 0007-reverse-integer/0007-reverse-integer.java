@@ -1,18 +1,15 @@
 class Solution {
     public int reverse(int x) {
-        long rev = 0;  // use long to handle overflow temporarily
+        long num = x;
         
-        while (x != 0) {
-            int digit = x % 10;      // extract last digit
-            rev = rev * 10 + digit;  // build reversed number
-            x = x / 10;              // remove last digit
+        if(num < 0) num = -num;
+        long reverseNum = 0;
+        while(num > 0){
+            long rem = num % 10;
+            reverseNum = reverseNum * 10 + rem;
+            if(reverseNum > Integer.MAX_VALUE) return 0;
+            num /= 10; 
         }
-        
-        // check overflow for 32-bit signed integer
-        if (rev > Integer.MAX_VALUE || rev < Integer.MIN_VALUE) {
-            return 0;
-        }
-        
-        return (int) rev;
+        return x < 0 ? (int)-reverseNum : (int)reverseNum;
     }
 }
