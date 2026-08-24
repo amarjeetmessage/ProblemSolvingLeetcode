@@ -596,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0048-rotate-image/) | Medium |
