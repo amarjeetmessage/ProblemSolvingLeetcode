@@ -1093,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0176-second-highest-salary](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0197-rising-temperature](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0584-find-customer-referee/) | Easy |
