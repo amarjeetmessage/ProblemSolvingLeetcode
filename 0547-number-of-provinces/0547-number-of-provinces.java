@@ -4,9 +4,9 @@ class Solution {
         int n = isConnected.length; 
         Queue<Integer> q = new LinkedList<>();
 
-        q.add(i);
+        q.add(i);// add this initially 
 
-        while(q.size() > 0) {
+        while(!q.isEmpty()) {// 
             int front = q.poll();
             for(int j = 0; j<n; j++){
                 if(isConnected[front][j] == 1 && vis[j] == false){
@@ -34,3 +34,5 @@ class Solution {
         return count;
     }
 }
+
+// TC : O(V+2E)
