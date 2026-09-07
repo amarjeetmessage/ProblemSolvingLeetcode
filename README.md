@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0796-rotate-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0796-rotate-string/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -529,6 +530,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1043-partition-array-for-maximum-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
