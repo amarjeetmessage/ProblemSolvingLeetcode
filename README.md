@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3225-maximum-score-from-grid-operations](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -807,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0342-power-of-four/) | Easy |
 | [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -843,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
