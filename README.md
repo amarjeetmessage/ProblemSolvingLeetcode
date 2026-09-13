@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0741-cherry-pickup/) | Hard |
 | [0746-min-cost-climbing-stairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0835-image-overlap](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0835-image-overlap/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0877-stone-game/) | Medium |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0741-cherry-pickup](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0741-cherry-pickup/) | Hard |
+| [0835-image-overlap](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
