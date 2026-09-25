@@ -246,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -402,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -496,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -941,6 +946,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
