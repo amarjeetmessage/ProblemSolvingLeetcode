@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2244-minimum-rounds-to-complete-all-tasks/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2540-minimum-common-value](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -576,6 +578,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1872-stone-game-viii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1204,4 +1207,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
