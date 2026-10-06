@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0796-rotate-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -961,6 +963,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -1219,6 +1222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
