@@ -238,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0322-coin-change/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0547-number-of-provinces](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0547-number-of-provinces/) | Medium |
@@ -328,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0127-word-ladder/) | Hard |
 | [0179-largest-number](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0179-largest-number/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
@@ -511,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0079-word-search/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
