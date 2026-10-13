@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Backtracking
@@ -792,6 +794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
