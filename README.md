@@ -742,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -794,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3732-maximum-product-of-three-elements-after-one-replacement/) | Medium |
 ## Binary Search
