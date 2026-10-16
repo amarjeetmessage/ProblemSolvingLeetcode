@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2615-sum-of-distances](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2615-sum-of-distances/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -962,6 +964,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -1081,6 +1084,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [2179-count-good-triplets-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2179-count-good-triplets-in-an-array/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Merge Sort
