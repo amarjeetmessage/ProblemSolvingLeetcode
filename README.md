@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3620-network-recovery-pathways](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -664,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2035-partition-array-into-two-arrays-to-minimize-sum-difference/) | Hard |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
