@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-last-stone-weight-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1049-last-stone-weight-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1306-jump-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0993-cousins-in-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0993-cousins-in-binary-tree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0993-cousins-in-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1306-jump-game-iii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1311-get-watched-videos-by-your-friends/) | Medium |
 | [1345-jump-game-iv](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1345-jump-game-iv/) | Hard |
@@ -278,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -302,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0835-image-overlap](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
