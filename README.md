@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## String
 | Problem Name | Difficulty |
