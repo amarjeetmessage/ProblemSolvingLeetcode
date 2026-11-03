@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0455-assign-cookies](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0473-matchsticks-to-square](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0473-matchsticks-to-square/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0539-minimum-time-difference](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0594-longest-harmonious-subsequence](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -748,6 +750,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0478-generate-random-point-in-a-circle](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0478-generate-random-point-in-a-circle/) | Medium |
 | [0479-largest-palindrome-product](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0479-largest-palindrome-product/) | Hard |
 | [0486-predict-the-winner](https://github.com/Amarjeetbtechcse/ProblemSolvingLeetcode/tree/main/0486-predict-the-winner/) | Medium |
